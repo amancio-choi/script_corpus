@@ -1,4 +1,4 @@
-# Yonsei-ScriptCorpus
+# ScriptCorpus
 Dialogue events collection derived from scripts of movies and dramas; for training and testing dialogue / chatbot systems
 
 
@@ -38,4 +38,3 @@ Column names of meta information file (meta_dialogeEvent)
 * purpose: for what the speakers converse (categorised). The mojority of the conversations has no specific purpose.
 * othe_purpose: for what the speakers converse
 
-# script_corpus
